@@ -1,0 +1,46 @@
+{
+  "mockCategories": [
+    {
+      "Id": "all",
+      "name": "All Tasks",
+      "color": "#5B4EF5",
+      "icon": "List"
+    },
+    {
+      "Id": "1",
+      "name": "Work",
+      "color": "#5B4EF5",
+      "icon": "Briefcase"
+    },
+    {
+      "Id": "2",
+      "name": "Personal",
+      "color": "#FF6B6B",
+      "icon": "User"
+    },
+    {
+      "Id": "3",
+      "name": "Shopping",
+      "color": "#4ECDC4",
+      "icon": "ShoppingCart"
+    },
+    {
+      "Id": "4",
+      "name": "Health",
+      "color": "#FFD93D",
+      "icon": "Heart"
+    },
+    {
+      "Id": "5",
+      "name": "Education",
+      "color": "#8B80F9",
+      "icon": "BookOpen"
+    },
+    {
+      "Id": "6",
+      "name": "Finance",
+      "color": "#26A69A",
+      "icon": "DollarSign"
+    }
+  ]
+}
