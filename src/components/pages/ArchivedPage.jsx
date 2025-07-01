@@ -5,7 +5,7 @@ import TaskList from "@/components/organisms/TaskList";
 import Loading from "@/components/ui/Loading";
 import Error from "@/components/ui/Error";
 import Button from "@/components/atoms/Button";
-import AppIcon from "@/components/atoms/AppIcon";
+import AppIcon from "@/components/AppIcon";
 import { taskService } from "@/services/api/taskService";
 import { categoryService } from "@/services/api/categoryService";
 
